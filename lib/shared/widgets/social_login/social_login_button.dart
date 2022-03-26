@@ -11,6 +11,7 @@ class SocialLoginButton extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    //inkwell é um wifget para
     return InkWell(
       onTap: onTap,
       child: Container(
