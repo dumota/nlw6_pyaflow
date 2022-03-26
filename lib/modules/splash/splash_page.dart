@@ -12,8 +12,8 @@ class SplashPage extends StatelessWidget {
       //stack é um conceito de por em vima do outro , empilhar camadas
       body: Stack(
         children: [
-          Center(child: Image.asset(AppImages.union)) ,
-          Center(child: Image.asset(AppImages.logoFull)) 
+          Center(child: Image.asset(AppImages.union)),
+          Center(child: Image.asset(AppImages.logoFull))
         ],
       ),
     );
