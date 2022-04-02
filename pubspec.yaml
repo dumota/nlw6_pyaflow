@@ -38,6 +38,8 @@ dependencies:
   firebase_core: ^1.13.1
   google_sign_in: ^5.2.4
   google_sign_in_web: ^0.10.0
+  #o shared é uma lib para guardarmos coisas dentro do app
+  shared_preferences: ^2.0.13
 
 
 dev_dependencies:
