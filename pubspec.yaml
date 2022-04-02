@@ -40,6 +40,10 @@ dependencies:
   google_sign_in_web: ^0.10.0
   #o shared é uma lib para guardarmos coisas dentro do app
   shared_preferences: ^2.0.13
+  #kit de machine larning da google , used for recognized the face or images , ex(qrCodes and others)
+  google_ml_kit: ^0.7.3
+  camera: ^0.9.4+18
+  image_picker: ^0.8.4+11
 
 
 dev_dependencies:
